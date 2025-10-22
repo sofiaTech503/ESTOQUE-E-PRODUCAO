@@ -1,6 +1,4 @@
-# ESTOQUE-E-PRODU-O
-
-## 🧩 MÓDULO 3 — ESTOQUE E PRODUÇÃO
+# 🧩 MÓDULO 3 — ESTOQUE E PRODUÇÃO
 🎯 Objetivo
 
 Controlar produtos, entradas/saídas de estoque e custos médios, integrando-se aos módulos:
